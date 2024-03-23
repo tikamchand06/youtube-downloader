@@ -1,0 +1,34 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "youtube-downloader",
+  "main": "server.js",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node --max-old-space-size=3500 server",
+    "server": "nodemon server",
+    "frontend": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run frontend\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend-build": "npm run build --prefix frontend",
+    "frontend-release": "rm -rf ../html/* && cp -r frontend/build/* ../html"
+  },
+  "keywords": [
+    "tcmhack",
+    "tikamchand06",
+    "ytdl",
+    "youtube-downloader"
+  ],
+  "author": "Tikam Chand Meghwanshi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
