@@ -1,0 +1,68 @@
+{
+  "features": [
+    {
+      "title": "Blazingly Fast Processing",
+      "description": "Delivers high-speed video and audio extraction with minimal wait time.",
+      "icon": "Zap"
+    },
+    {
+      "title": "No Installation Required",
+      "description": "Works directly in the browser without forcing users to install any software or extensions.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Minimal Input Flow",
+      "description": "Single URL input is all that is needed to start download or conversion.",
+      "icon": "MousePointerClick"
+    },
+    {
+      "title": "Privacy First Execution",
+      "description": "Conversion happens securely with no permanent storage of user downloads.",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Universal Browser Support",
+      "description": "Platform runs smoothly across Chrome, Safari, Firefox, Edge, Brave and more.",
+      "icon": "MonitorSmartphone"
+    },
+    {
+      "title": "No Watermarks or Ads",
+      "description": "Output remains clean, professional, and completely unbranded.",
+      "icon": "BadgeCheck"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this downloader free to use?",
+      "answer": "Yes. There is no cost barrier and no subscription required to download videos or audio."
+    },
+    {
+      "question": "Do I need to install any software or extension?",
+      "answer": "No. The entire experience runs in the browser and does not require additional installations."
+    },
+    {
+      "question": "Can I download videos in both MP4 and MP3 formats?",
+      "answer": "Yes. You can switch between MP4 video or MP3 audio instantly with a single click."
+    },
+    {
+      "question": "Is my downloaded content stored anywhere?",
+      "answer": "No. We do not keep copies or store user downloads. Your data remains private."
+    },
+    {
+      "question": "Does it work on all browsers and devices?",
+      "answer": "Yes. It is optimized to work across major browsers like Chrome, Firefox, Edge, Safari, Brave, and mobile browsers too."
+    },
+    {
+      "question": "Why are downloads extremely fast?",
+      "answer": "We use highly optimized streaming extraction pipelines which significantly reduce processing time."
+    },
+    {
+      "question": "Are there watermarks or ads added to the downloaded files?",
+      "answer": "No. All downloads are clean, unbranded, and free from watermarks or ads."
+    },
+    {
+      "question": "Can I download videos from other social media platforms like Facebook, Twitter, Instagram, etc.?",
+      "answer": "Yes. You can use our separate platform at <a target='_blank' class='font-medium text-blue-500 hover:text-blue-700' href='https://socialdownloader.in/?ref=ytdl'>https://socialdownloader.in</a> for downloading videos from other social platforms."
+    }
+  ]
+}
