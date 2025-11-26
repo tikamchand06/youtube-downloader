@@ -33,7 +33,7 @@ export default function Header() {
 
   return (
     <header
-      className={`w-full px-8 py-3 bg-white dark:bg-black flex items-center justify-between md:px-4 sm:px-2 sm:flex-col sticky top-0 z-50 transition-shadow duration-300 ${
+      className={`w-full px-8 py-3 bg-white dark:bg-black flex items-center justify-between md:px-4 sticky top-0 z-50 transition-shadow duration-300 ${
         scrolled ? "shadow-sm" : ""
       }`}
     >

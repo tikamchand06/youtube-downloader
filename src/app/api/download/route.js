@@ -1,4 +1,4 @@
-import ytdl from "ytdl-core";
+import ytdl from "@distube/ytdl-core";
 import { NextResponse } from "next/server";
 
 export async function GET(req) {

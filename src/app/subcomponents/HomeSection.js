@@ -35,7 +35,7 @@ export default function HomeSection() {
           <div className='mb-8'>
             <h2 className='text-4xl sm:text-5xl font-bold mb-4 text-foreground text-balance'>Download Any YouTube Video</h2>
 
-            <Image width={160} height={160} src='/youtube.gif' alt='YouTube Downloader' className='mx-auto' />
+            <Image width={160} height={160} src='/youtube.gif' alt='YouTube Downloader' className='mx-auto' unoptimized />
           </div>
 
           <div className='flex flex-col sm:flex-row gap-3 mb-2'>
